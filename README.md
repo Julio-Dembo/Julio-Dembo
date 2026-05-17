@@ -47,5 +47,5 @@ Sou um **estudante** de tecnologias que **busca sempre aprender** continua por m
 #
 **ESTATÍSTICAS**
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Julio-Dembo&layout=compact)
 [![Example](https://github-stats-alpha.vercel.app/api?username=Julio-Dembo&cc=000&tc=fff&ic=fff&bc=000 "Example")](https://github-stats-alpha.vercel.app/api?username=tuhinpal&cc=000&tc=fff&ic=fff&bc=000 "Example")
