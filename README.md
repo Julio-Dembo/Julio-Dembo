@@ -2,7 +2,7 @@
 
 **´Sou Junior em desenvolvimento Full Stack´**
 
-Sou um **estudante** de tecnologias que **busca sempre aprender** continua por meio de **desafios**, ganhando experiências para **desenvolver** as minhas **habilidades** como profissional. Gosto de **trabalhar em equipe** por ser **desafiador e** também de **disciplina** durante as minhas actividades de trabalho.
+Sou um **estudante** de tecnologias que **busca sempre aprender** continuamente por meio de **desafios**, ganhando experiências para **desenvolver** as minhas **habilidades** como profissional. Gosto de **trabalhar em equipe** por ser **desafiador e** também de **disciplina** durante as minhas actividades de trabalho.
 
 <img src="https://static.vecteezy.com/system/resources/thumbnails/077/170/275/small/angola-map-with-waving-flag-png.png" alt="" style="width: 72px; ">
 
