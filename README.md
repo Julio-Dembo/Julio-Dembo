@@ -1,6 +1,6 @@
 # 📜**Júlio Dembo**
 
-**´Sou Junior em desenvolvimento Fulltack´**
+**´Sou Junior em desenvolvimento Full Stack´**
 
 Sou um **estudante** de tecnologias que **busca sempre aprender** continua por meio de **desafios**, ganhando experiências para **desenvolver** as minhas **habilidades** como profissional. Gosto de **trabalhar em equipe** por ser **desafiador e** também de **disciplina** durante as minhas actividades de trabalho.
 
