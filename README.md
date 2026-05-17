@@ -7,7 +7,7 @@ Sou um **estudante** de tecnologias que **busca sempre aprender** continua por m
 <img src="https://static.vecteezy.com/system/resources/thumbnails/077/170/275/small/angola-map-with-waving-flag-png.png" alt="" style="width: 72px; ">
 
 **Angola**
-
+#
   <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -24,6 +24,7 @@ Sou um **estudante** de tecnologias que **busca sempre aprender** continua por m
     </a>
 
 #
+
 💡💻 **LINGUAGENS E TECNOLOGIAS**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -35,8 +36,7 @@ Sou um **estudante** de tecnologias que **busca sempre aprender** continua por m
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Git](https://img.shields.io/badge/git-393939.svg?style=for-the-badge&logo=git&logoColor=%23F24E1E)
 ![tmux](https://img.shields.io/badge/tmux-white?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
-##
-
+#
 🌌💻🚀**SISTEMAS OPERACIONAIS**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -44,8 +44,10 @@ Sou um **estudante** de tecnologias que **busca sempre aprender** continua por m
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ##
-#
-**ESTATÍSTICAS**
+
+📊*ESTATÍSTICAS**
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Julio-Dembo&layout=compact)
 [![Example](https://github-stats-alpha.vercel.app/api?username=Julio-Dembo&cc=000&tc=fff&ic=fff&bc=000 "Example")](https://github-stats-alpha.vercel.app/api?username=tuhinpal&cc=000&tc=fff&ic=fff&bc=000 "Example")
+
+#
